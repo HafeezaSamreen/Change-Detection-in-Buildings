@@ -4,7 +4,6 @@ The proposed model can be evaluated using various metrics, namely comparison of 
 ![image](https://github.com/HafeezaSamreen/Change-Detection-in-Buildings/assets/71244664/7b358587-464c-427e-a202-57f5f60ff7e8)
 ![image](https://github.com/HafeezaSamreen/Change-Detection-in-Buildings/assets/71244664/3b7fccfb-79f8-41fb-b77c-e66c0694c415)
 ![image](https://github.com/HafeezaSamreen/Change-Detection-in-Buildings/assets/71244664/7fdd461f-bab0-4bdd-b0fc-8b1bfffe78e1)
-![image](https://github.com/HafeezaSamreen/Change-Detection-in-Buildings/assets/71244664/f447d241-9a84-48a4-817f-7f62b496bc09)
 ![image](https://github.com/HafeezaSamreen/Change-Detection-in-Buildings/assets/71244664/f9d1ee74-4f06-4a6e-ae7e-ec4a0979b2f9)
 
 DATASET:
